@@ -1,6 +1,6 @@
 - Hi, I’m @kitnhin
 - just trying this out wth is this
-- ([url](https://leetcode.com/u/kitandhin/))
+- [urmom](https://leetcode.com/u/kitandhin/)
 
 <!---
 kitnhin/kitnhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
