@@ -24,7 +24,7 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" width="40" height="40" style="background-color:#FFFFFF" />
 </p>
 
-## 🎯 Featured Projects
+## Featured Projects
 <table border="1">
 	<tr>
 		<th>Project</th>
@@ -49,5 +49,5 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 </table>
 
 
-## 📈 Activity Graph
+## Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kitnhin&theme=react-dark)
