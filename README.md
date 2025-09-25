@@ -153,7 +153,9 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 	</tr>
 </table>
 
-
+## Others
+[LeetCode profile](https://leetcode.com/kitandhin/)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/kitandhin?theme=dark) -->
 
 ## Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kitnhin&theme=react-dark)
