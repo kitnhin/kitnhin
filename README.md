@@ -1,6 +1,6 @@
 
 ## Intro
-Hello I am Chee Kit, a student studying MEng Chemical Engineering at University College London (UCL), and Computer Science in 42 Kuala Lumpur
+Hello I am Chee Kit, a student studying MEng Chemical Engineering at University College London (UCL), and Computer Science in 42 Coding School
 	
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kitnhin&show_icons=true&theme=dark)
