@@ -57,37 +57,37 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 		<th>Technologies</th>
 	</tr>
 	<tr>
-	<td><a href="https://github.com/kitnhin/42-Core/tree/main/libft">libft</a></td>
+	<td><a href="https://github.com/kitnhin/libft">libft</a></td>
 		<td>Library of C functions used for future projects</td>
 		<td>C</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/ft_printf">ft_printf</a></td>
+		<td><a href="https://github.com/kitnhin/ft_printf">ft_printf</a></td>
 		<td>Recreate printf C function</td>
 		<td>C</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/get_next_line">get_next_line</a></td>
+		<td><a href="https://github.com/kitnhin/get_next_line">get_next_line</a></td>
 		<td>Function to read a file line by line</td>
 		<td>C</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/born2beroot">Born2beroot</a></td>
+		<td><a href="https://github.com/kitnhin/born2beroot">Born2beroot</a></td>
 		<td>Creating a virtual machine inside virtualbox</td>
 		<td>Shell, Virtual Machines</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/pipex">pipex</a></td>
+		<td><a href="https://github.com/kitnhin/pipex">pipex</a></td>
 		<td>Create a c program that mimics piping and forking behaviour</td>
 		<td>C</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/so_long">so_long</a></td>
+		<td><a href="https://github.com/kitnhin/so_long">so_long</a></td>
 		<td>2D dungeon-like game using the MiniLibX graphics library</td>
 		<td>C, Minilibx</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/push_swap">push_swap</a></td>
+		<td><a href="https://github.com/kitnhin/push_swap">push_swap</a></td>
 		<td>Sorting data on a stack with minimal operations</td>
 		<td>C</td>
 	</tr>
@@ -97,12 +97,12 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 		<td>C</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/philo">Philosophers</a></td>
+		<td><a href="https://github.com/kitnhin/philo">Philosophers</a></td>
 		<td>Dining Philosophers problem with threads and mutexes</td>
 		<td>C</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/netpractice">NetPractice</a></td>
+		<td><a href="https://github.com/kitnhin/netpractice">NetPractice</a></td>
 		<td>Networking exercise for IP addresses and routing</td>
 		<td>Networking</td>
 	</tr>
@@ -112,12 +112,12 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 		<td>C</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/inception">Inception</a></td>
+		<td><a href="https://github.com/kitnhin/inception">Inception</a></td>
 		<td>System administration project using Docker and services</td>
 		<td>Docker, Shell</td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/kitnhin/42-Core/tree/main/cpp">Cpp modules</a></td>
+		<td><a href="https://github.com/kitnhin/cpp">Cpp modules</a></td>
 		<td>Basics of C++ introducing new OOP concepts</td>
 		<td>C++</td>
 	</tr>
