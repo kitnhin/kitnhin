@@ -151,6 +151,14 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 		<td>Introducing machine learning and two main concepts - linear regression and gradient decent algorithm</td>
 		<td>Python</td>
 	</tr>
+	<tr>
+		<td><a href="https://github.com/kitnhin/42-Specialisation/tree/main/dslr">dslr</a></td>
+		<td>Implement logistic regression from scratch to create a Harry Potter Sorting Hat that predicts which Hogwarts house a student belongs to based on their grades.</td>
+	<td>Python</td>
+	<tr>
+		<td><a href="https://github.com/kitnhin/42-Specialisation/tree/main/multilayer_perceptron">multilayer_perceptron</a></td>
+		<td>Design and train a neural network from scratch to classify breast cancer tumors as benign or malignant using data from the Wisconsin Breast Cancer dataset.</td>
+	<td>Python</td>
 </table>
 
 ## Others
