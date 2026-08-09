@@ -159,6 +159,29 @@ Hello I am Chee Kit, a student studying MEng Chemical Engineering at University 
 		<td><a href="https://github.com/kitnhin/multilayer-perceptron">multilayer-perceptron</a></td>
 		<td>Design and train a neural network from scratch to classify breast cancer tumors as benign or malignant using data from the Wisconsin Breast Cancer dataset.</td>
 	<td>Python</td>
+	<tr>
+		<td><a href="https://github.com/kitnhin/darkly">darkly</a></td>
+		<td>Web security audit of a deliberately vulnerable application, identifying and exploiting vulnerabilities such as SQL injection, XSS, and path traversal</td>
+	<td>-</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/kitnhin/matcha">matcha</a></td>
+		<td>Full-stack dating platform with user authentication, profiles, geolocation-based discovery, matching and search, real-time notifications, likes, and chat between matched users.</td>
+	<td>Python, Typescript</td>
+</table>
+
+## 42 Extra projects
+<table border="1">
+	<tr>
+		<th>Project</th>
+		<th>Description</th>
+		<th>Technologies</th>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/kitnhin/RAG-against-the-machines">RAG-against-the-machines</a></td>
+		<td>Hybrid RAG pipeline for querying the vLLM codebase, combining ChromaDB semantic search, BM25 keyword search, and retrieval techniques like Multi-Query and HyDE.</td>
+	<td>Python</td>
+	</tr>
 </table>
 
 ## Others
